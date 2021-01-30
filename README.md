@@ -1,6 +1,6 @@
 # NameList
 
-Sudeep Gangwar S20200010204
+Sudeep Gangwar (UG1)
 
 VARUN KUMAR BANSAL (UG1)
 
