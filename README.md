@@ -9,5 +9,10 @@ Shardul Kurdukar - UG1
 
 Sudeep Gangwar (UG1)
 
-## Siddharth  (UG-2)
+Parth Raghuwanshi - (UG1)
+
+Siddharth  (UG-2)
+
+
+
 
