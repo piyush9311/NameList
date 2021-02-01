@@ -1,5 +1,6 @@
 # NameList
 
+Gurram Yashaswi(ug-1)
 
 Pranjay Gupta (UG1)
 
