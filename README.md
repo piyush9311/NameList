@@ -1,5 +1,9 @@
 # NameList
 
+---
+
+**Nitigya Joshi** _(UG-1)_
+
 Gurram Yashaswi(ug-1)
 
 Pranjay Gupta (UG1)
@@ -17,3 +21,5 @@ Siddharth  (UG-2)
 Ashwani Kumar (UG-1)
 
 Kolusu Manasa (UG-1)
+
+---
